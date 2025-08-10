@@ -4,7 +4,7 @@
 ===============================================================================
 synoscope – Synology® troubleshooting & (read‑only) recovery helper
 ===============================================================================
-Author  : Mischa (Anovum BV)
+Author  : Mischa Rick van Geelen <m.vangeelen@anovum.nl> (Anovum BV)
 Version : 1.0.0
 License : Provided "as is" without warranty of any kind.
 
